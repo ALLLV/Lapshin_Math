@@ -1,0 +1,6 @@
+C:\Users\IMac2\source\repos\Lapshin_Math\MyMath\bin\Debug\MyMath.dll
+C:\Users\IMac2\source\repos\Lapshin_Math\MyMath\bin\Debug\MyMath.pdb
+C:\Users\IMac2\source\repos\Lapshin_Math\MyMath\obj\Debug\MyMath.csproj.AssemblyReference.cache
+C:\Users\IMac2\source\repos\Lapshin_Math\MyMath\obj\Debug\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\IMac2\source\repos\Lapshin_Math\MyMath\obj\Debug\MyMath.dll
+C:\Users\IMac2\source\repos\Lapshin_Math\MyMath\obj\Debug\MyMath.pdb

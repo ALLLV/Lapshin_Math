@@ -1,0 +1,11 @@
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\bin\Debug\Lapshin_Math.exe.config
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\bin\Debug\Lapshin_Math.exe
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\bin\Debug\Lapshin_Math.pdb
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\bin\Debug\MyMath.dll
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\bin\Debug\MyMath.pdb
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\obj\Debug\Lapshin_Math.csproj.AssemblyReference.cache
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\obj\Debug\Lapshin_Math.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\obj\Debug\Lapshin_Math.csproj.CoreCompileInputs.cache
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\obj\Debug\Lapshin_Math.csproj.CopyComplete
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\obj\Debug\Lapshin_Math.exe
+C:\Users\IMac2\source\repos\Lapshin_Math\Lapshin_Math\obj\Debug\Lapshin_Math.pdb
